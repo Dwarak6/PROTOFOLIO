@@ -2,7 +2,7 @@
 
 A modern, responsive, and performance-optimized personal portfolio showcasing data analytics projects, SQL models, interactive Power BI dashboards, and exploratory data analysis.
 
-🔗 **Live Website**: [https://meadow-proof-1oe08.ship.place/](https://meadow-proof-1oe08.ship.place/)  
+🔗 **Live Website**: [https://gem-pilot-4z09c.ship.place/](https://gem-pilot-4z09c.ship.place/)  
 🐙 **GitHub Profile**: [@Dwarak6](https://github.com/Dwarak6)  
 📍 **Location**: Hyderabad, India (Open to Remote & Hybrid)  
 
